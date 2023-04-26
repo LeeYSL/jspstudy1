@@ -1,0 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <%--url : http://localhost:8080/jspstudy1/ 요청시 자동호출되는 jsp 페이지 --%>
+<script>
+  location.href="/jspstudy/model1/member/main.jsp"
+
+</script>
